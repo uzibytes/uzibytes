@@ -73,8 +73,6 @@
 ## 📈 Stats
 
 <div>
-<p><img align="left" height="179" src="https://github-readme-stats.vercel.app/api/top-langs?username=uzibytes&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="uzibytes" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uzibytes&show_icons=true&locale=en&theme=nightowl" alt="uzibytes" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uzibytes&theme=nightowl" alt="uzibytes" /></p>
 
 ## 😊 Profile Summary
