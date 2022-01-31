@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ujjwal aka UziBytes</h1>
 <p align="right">Currently pursuing B.Tech in Computer Science Engineering 👨🏻‍💻</p>
 <div>
-<img align="right" alt="coding" width="500" height="450" src="https://cdn.dribbble.com/users/2571505/screenshots/14197653/media/324034b1707825a543f520a98d30fdf2.gif" />
+<img align="right" alt="coding" width="500" height="auto" src="https://cdn.dribbble.com/users/2571505/screenshots/14197653/media/324034b1707825a543f520a98d30fdf2.gif" />
 </div>
 
 ## 🚀 About Me
@@ -75,6 +75,7 @@
 <div>
 <p><img align="left" height="179" src="https://github-readme-stats.vercel.app/api/top-langs?username=uzibytes&show_icons=true&locale=en&layout=compact&theme=radical" alt="uzibytes" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uzibytes&show_icons=true&locale=en&theme=radical" alt="uzibytes" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uzibytes&theme=radical" alt="uzibytes" /></p>
 
 ## 😊 Profile Summary
 
